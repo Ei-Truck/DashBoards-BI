@@ -5,6 +5,7 @@ Este documento apresenta as explicações e interpretações dos gráficos que c
 ---
 
 ## 🚛 **Dashboard Formulário — Pesquisa de Interesse**
+![alt text](Images/DashboardFormularioPesquisa.png)
 ---
 
 ### 1️⃣ **Quantidade de caminhões ativos por porte da empresa**
@@ -90,6 +91,8 @@ Este painel permite compreender o **perfil das empresas**, o **uso de tecnologia
 ---
 
 ## 🛰️ **Dashboard de Análise de Viagem — Base de Dados**
+
+![alt text](Images/DashboardAnaliseViagens.png) ![alt text](Images/FiltrosAnaliseViagens.png)
 ---
 
 ### 1️⃣ **Cartões de Indicadores (KPI Cards)**
@@ -167,6 +170,7 @@ Este painel combina **indicadores, mapas, tabelas e gráficos** para apresentar 
 ---
 
 ## 🧾 **Dashboard de Avaliação — Ei-Truck**
+![alt text](Images/DashboardAvaliacaoProjeto.png)
 ---
 
 ### 1️⃣ **Cartões de Indicadores (KPI Cards)**
