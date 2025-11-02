@@ -232,10 +232,10 @@ Este painel combina **indicadores, mapas, tabelas e gráficos** para apresentar 
 
 ### ✅ **Conclusão Geral**
 
-Os dashboards do **Ei-Truck** proporcionam uma visão completa e integrada sobre:
+Os dashboards proporcionam uma visão completa e integrada sobre:
 
 🚚 **O perfil e a estrutura das empresas de transporte**  
 🛰️ **O desempenho operacional e o comportamento em viagem**  
 ⭐ **A avaliação de desempenho e percepção dos usuários**
 
-➡️ Juntos, esses painéis formam uma ferramenta poderosa para **análise, gestão e tomada de decisão estratégica** dentro do ecossistema **Ei-Truck**.
+➡️ Juntos, esses painéis formam uma ferramenta para **análise, gestão e tomada de decisão estratégica** dentro do ecossistema **Ei-Truck**.
