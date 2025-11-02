@@ -94,6 +94,12 @@ Este painel permite compreender o **perfil das empresas**, o **uso de tecnologia
 
 ![alt text](Images/DashboardAnaliseViagens.png) ![alt text](Images/FiltrosAnaliseViagens.png)
 ---
+### *Usuario e senha para acesso aos dados do Dashboard com o power bi local:*
+#### *Usuário*: neondb_owner 
+#### *Senha*: npg_TfXnpDU5s7cA
+#### *Servidor*: ep-spring-star-acu8qhq2-pooler.sa-east-1.aws.neon.tech
+#### *Banco de dados*: ei-truck-prod
+---
 
 ### 1️⃣ **Cartões de Indicadores (KPI Cards)**
 
