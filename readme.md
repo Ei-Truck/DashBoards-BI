@@ -5,6 +5,7 @@ Este documento apresenta as explicações e interpretações dos gráficos que c
 ---
 
 ## 🚛 **Dashboard Formulário — Pesquisa de Interesse**
+![alt text](Images/DashboardFormularioPesquisa.png)
 ---
 
 ### 1️⃣ **Quantidade de caminhões ativos por porte da empresa**
@@ -90,6 +91,14 @@ Este painel permite compreender o **perfil das empresas**, o **uso de tecnologia
 ---
 
 ## 🛰️ **Dashboard de Análise de Viagem — Base de Dados**
+
+![alt text](Images/DashboardAnaliseViagens.png) ![alt text](Images/FiltrosAnaliseViagens.png)
+---
+### *Usuario e senha para acesso aos dados do Dashboard com o power bi local:*
+#### *Usuário*: neondb_owner 
+#### *Senha*: npg_TfXnpDU5s7cA
+#### *Servidor*: ep-spring-star-acu8qhq2-pooler.sa-east-1.aws.neon.tech
+#### *Banco de dados*: ei-truck-prod
 ---
 
 ### 1️⃣ **Cartões de Indicadores (KPI Cards)**
@@ -167,6 +176,7 @@ Este painel combina **indicadores, mapas, tabelas e gráficos** para apresentar 
 ---
 
 ## 🧾 **Dashboard de Avaliação — Ei-Truck**
+![alt text](Images/DashboardAvaliacaoProjeto.png)
 ---
 
 ### 1️⃣ **Cartões de Indicadores (KPI Cards)**
@@ -222,10 +232,10 @@ Este painel combina **indicadores, mapas, tabelas e gráficos** para apresentar 
 
 ### ✅ **Conclusão Geral**
 
-Os dashboards do **Ei-Truck** proporcionam uma visão completa e integrada sobre:
+Os dashboards proporcionam uma visão completa e integrada sobre:
 
 🚚 **O perfil e a estrutura das empresas de transporte**  
 🛰️ **O desempenho operacional e o comportamento em viagem**  
 ⭐ **A avaliação de desempenho e percepção dos usuários**
 
-➡️ Juntos, esses painéis formam uma ferramenta poderosa para **análise, gestão e tomada de decisão estratégica** dentro do ecossistema **Ei-Truck**.
+➡️ Juntos, esses painéis formam uma ferramenta para **análise, gestão e tomada de decisão estratégica** dentro do ecossistema **Ei-Truck**.
